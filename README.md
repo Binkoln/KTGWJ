@@ -1,0 +1,2 @@
+# KTGWJ
+Kod źródłowy kursu.
